@@ -1,1 +1,44 @@
-Work in progress.
+# Disney Industry Analysis (Power BI)
+
+This project explores Disney movie performance over time using Power BI.
+The analysis focuses on revenue trends, genres, ratings, and character-level insights.
+
+## Project Overview
+- Total movies analyzed: 575
+- Time period: 1930s–2020s
+- Metrics: total revenue, average revenue per movie, inflation-adjusted revenue
+
+## Key Questions
+- How have Disney movie revenues changed over time?
+- Which genres generate the highest revenue?
+- How does MPAA rating impact revenue?
+- Is revenue growth driven by the number of movies or their average value?
+- Which voice actors contributed most to Disney’s filmography?
+
+## Dashboards
+
+### Overview
+![Overview](../screenshots/overview.png)
+
+### Trends Over Time
+![Trends Over Time](../screenshots/trends_over_time.png)
+
+### Voice Actors & Characters
+![Voice Actors](../screenshots/voice_actors.png)
+
+### Data Model
+![Data Model](../screenshots/model.png)
+
+## Data Model
+Star schema with fact and dimension tables:
+- Fact table: movie_total_gross
+- Dimensions: movies, date, characters, voice actors
+
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+- Excel / CSV datasets
+
+## Author
+Evelina Dorofejeva
