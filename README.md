@@ -1,42 +1,36 @@
-# Data Analytics Portfolio – Evelina Dorofejeva
+# Data Analytics Projects – Power BI, SQL, Python
 
-Welcome to my data analytics portfolio.
+This repository contains selected **data analytics and business intelligence projects** focused on data exploration, modelling, and visualisation.
 
-I am a Junior Data Analyst with a strong analytical background and hands-on experience in:
-- Power BI
-- SQL
-- Python
-- Data modeling
-- Business-focused data analysis
-
-This repository contains selected projects that demonstrate my ability to transform data into meaningful insights.
+The projects demonstrate practical use of analytical tools to transform raw data into structured insights and decision-support dashboards.
 
 ---
 
 ## Power BI Projects
 
 ### Disney Industry Analysis
-An interactive Power BI project analyzing Disney movie performance over time.
+An interactive Power BI project analysing Disney movie performance over time.
 
 **Key topics:**
 - Revenue trends and inflation-adjusted analysis
 - Genre and MPAA rating impact
 - Character and voice actor contribution
-- Star schema data model
+- STAR schema data model
+- Business-oriented insights and storytelling
 
-➡️ [View Power BI projects](./powerbi)
+➡️ [View Power BI project files](./powerbi)
 
 ---
 
-## Tools & Skills
+## Tools & Techniques Used
 - Power BI (DAX, Power Query)
 - SQL
 - Python (pandas)
-- Data visualization
-- Data modeling (STAR schema)
-- Business analysis
+- Data visualisation
+- Data modelling (STAR schema)
+- Business-focused data analysis
 
 ---
 
-📫 **Connect with me on LinkedIn:**  
-https://www.linkedin.com/in/evelina-dorofejeva/
+## Notes
+This repository is intended for **portfolio and demonstration purposes**, showcasing applied analytics skills through end-to-end project work.
