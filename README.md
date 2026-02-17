@@ -1,8 +1,8 @@
-# Data Analytics Projects – Power BI, SQL, Python
+# Data Analytics Projects
 
-This repository contains selected **data analytics and business intelligence projects** focused on data exploration, modelling, and visualisation.
+This repository contains practical data analytics and business intelligence projects focused on exploring data, building structured models, and delivering clear analytical insights.
 
-The projects demonstrate practical use of analytical tools to transform raw data into structured insights and decision-support dashboards.
+The work demonstrates applied use of Power BI, SQL, and Python in solving real-world analytical tasks.
 
 ---
 
@@ -22,7 +22,7 @@ An interactive Power BI project analysing Disney movie performance over time.
 
 ---
 
-## Tools & Techniques Used
+## Methods and Tools
 - Power BI (DAX, Power Query)
 - SQL
 - Python (pandas)
@@ -33,4 +33,5 @@ An interactive Power BI project analysing Disney movie performance over time.
 ---
 
 ## Notes
-This repository is intended for **portfolio and demonstration purposes**, showcasing applied analytics skills through end-to-end project work.
+The repository is maintained as a collection of analytical work samples.
+
